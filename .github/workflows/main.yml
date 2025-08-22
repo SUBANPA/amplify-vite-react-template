@@ -1,38 +1,40 @@
-
-
 *Loan Application Workflow*
-1. *User Registration*:
-    - User downloads and installs the loan app.
-    - User creates an account by providing required information (e.g., name, email, phone number, password).
-    - User verifies their email and phone number.
-2. *Loan Application*:
-    - User logs in to their account and navigates to the loan application section.
-    - User fills out the loan application form, providing required information (e.g., loan amount, loan term, purpose of loan, personal details).
-    - User submits the loan application.
-3. *Application Review*:
-    - The loan app's system reviews the application for completeness and accuracy.
-    - The system checks the user's creditworthiness and employment status (if applicable).
-    - The system assigns a risk score to the application based on the user's creditworthiness and other factors.
-4. *Approval or Rejection*:
-    - If the application is approved, the system generates a loan offer with the approved amount, interest rate, and repayment terms.
-    - If the application is rejected, the system sends a notification to the user with the reason for rejection.
-5. *Loan Disbursement*:
-    - If the user accepts the loan offer, the system disburses the loan amount to the user's designated account.
-    - The system updates the user's loan status to "active".
-6. *Repayment*:
-    - The user makes regular payments according to the loan repayment schedule.
-    - The system tracks the user's payments and updates their loan status accordingly.
-7. *Loan Closure*:
-    - When the user completes all payments, the system updates the loan status to "closed".
-    - The system sends a notification to the user confirming loan closure.
+1. *User Registration*
+- User downloads and installs the loan app.
+- User creates an account by providing required information (e.g., name, email, phone number, password).
+- User verifies their email and phone number.
+
+2. *Loan Application*
+- User logs in to their account and navigates to the loan application section.
+- User fills out the loan application form, providing required information (e.g., loan amount, loan term, purpose of loan, personal details).
+- User submits the loan application.
+
+3. *Application Review*
+- The loan app's system reviews the application for completeness and accuracy.
+- The system checks the user's creditworthiness and employment status (if applicable).
+- The system assigns a risk score to the application based on the user's creditworthiness and other factors.
+
+4. *Approval or Rejection*
+- If the application is approved, the system generates a loan offer with the approved amount, interest rate, and repayment terms.
+- If the application is rejected, the system sends a notification to the user with the reason for rejection.
+
+5. *Loan Disbursement*
+- If the user accepts the loan offer, the system disburses the loan amount to the user's designated account.
+- The system updates the user's loan status to "active".
+
+6. *Repayment*
+- The user makes regular payments according to the loan repayment schedule.
+- The system tracks the user's payments and updates their loan status accordingly.
+
+7. *Loan Closure*
+- When the user completes all payments, the system updates the loan status to "closed".
+- The system sends a notification to the user confirming loan closure.
 
 *Additional Features*
-- *Payment Reminders*: The system sends reminders to users about upcoming payment due dates.
-- *Late Payment Fees*: The system charges late payment fees if users miss payments.
-- *Loan Repayment Flexibility*: The system allows users to request loan repayment extensions or modifications (if applicable).
+- Payment Reminders: The system sends reminders to users about upcoming payment due dates.
+- Late Payment Fees: The system charges late payment fees if users miss payments.
+- Loan Repayment Flexibility: The system allows users to request loan repayment extensions or modifications (if applicable).
 
 *Risk Management*
-- *Credit Scoring*: The system uses credit scoring models to assess the user's creditworthiness.
-- *Risk-Based Pricing*: The system uses risk-based pricing to determine the interest rate and loan terms based on the user's risk score.
-
-This workflow outlines the key steps involved in the loan application process, from user registration to loan closure. It also highlights additional features and risk management strategies to ensure a smooth and secure lending experience.
+- Credit Scoring: The system uses credit scoring models to assess the user's creditworthiness.
+- Risk-Based Pricing: The system uses risk-based pricing to determine the interest rate and loan terms based on the user's risk score.
