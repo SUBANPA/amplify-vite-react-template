@@ -1,0 +1,103 @@
+---
+name: SUBANPAONUADO FOUNDATION QUICK LOAN APPLICATION FORM
+about: This provide a place for you to fill your form for submission.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+*Loan Application Form*
+*Section 1: Personal Details*
+- *Full Name*: _____________________________________________________
+- *Date of Birth*: _____________________________________________________
+- *Place of Birth*: _____________________________________________________
+- *Hometown*: _____________________________________________________
+- *Region*: _____________________________________________________
+- *Nationality*: _____________________________________________________
+
+*Section 2: Contact Information*
+- *Digital Address*: _____________________________________________________
+- *Residential Address*: _____________________________________________________
+- *Phone Number*: _____________________________________________________
+- *Email Address*: _____________________________________________________
+
+*Section 3: Family Information*
+- *Marital Status*: _____________________________________________________
+- *Name of Spouse (if applicable)*: _____________________________________________________
+- *Spouse's Occupation (if applicable)*: _____________________________________________________
+- *Parents' Names*:
+    - *Father's Name*: _____________________________________________________
+    - *Mother's Name*: _____________________________________________________
+
+*Section 4: National Identification*
+- *National Identification Number (Ghana Card Number)*: _____________________________________________________
+
+*Section 5: SPF Membership*
+- *SPF Membership Identification Number*: _____________________________________________________
+
+*Section 6: Employment and Income*
+- *Employment Status*: _____________________________________________________
+- *Occupation*: _____________________________________________________
+- *Employer*: _____________________________________________________
+- *Length of Service*: _____________________________________________________
+- *Monthly Income*: _____________________________________________________
+
+*Section 7: Loan Details*
+- *Loan Amount*: _____________________________________________________
+- *Loan Term*: _____________________________________________________
+- *Purpose of Loan*: _____________________________________________________
+
+*Section 8: Interest Rate*
+- *Interest Rate*: 2% per week and 8% per month
+
+*Section 9: Guarantors*
+- *Guarantor 1*:
+    - *Full Name*: _____________________________________________________
+    - *Relationship to Applicant*: _____________________________________________________
+    - *Occupation*: _____________________________________________________
+    - *Employer*: _____________________________________________________
+    - *Phone Number*: _____________________________________________________
+    - *Email Address*:  _____________________________________________________
+- *Guarantor 2*:
+    - *Full Name*: _____________________________________________________
+    - *Relationship to Applicant*: _____________________________________________________
+    - *Occupation*: _____________________________________________________
+    - *Employer*: _____________________________________________________
+    - *Phone Number*: _____________________________________________________
+    - *Email Address*: _____________________________________________________
+
+*Section 10: Additional Information*
+- *Any outstanding loans or debts?*: Yes/No
+- *If yes, please provide details*: _____________________________________________________
+
+*Section 11: Security Requirements*
+- *Password*: Create a strong password for your account (minimum 8 characters, including uppercase, lowercase, numbers, and special characters)
+- *Security Questions*: Answer the following security questions to help verify your identity:
+    1. What is your mother's maiden name?
+    2. What is the name of your first school?
+    3. What is your favorite sports team?
+
+*Section 12: Terms and Conditions*
+- I/We understand and agree to the terms and conditions of the loan, including the interest rate of 2% per week and 8% per month.
+- I/We authorize the lender to verify my/our creditworthiness and employment status.
+
+*Section 13: Declaration*
+- I/We declare that the information provided is true and accurate to the best of my/our knowledge.
+- I/We understand that providing false information may result in loan rejection or cancellation.
+
+*Section 14: Signature*
+- *Applicant's Signature*: _____________________________________________________
+- *Date*: _____________________________________________________
+- *Guarantor 1's Signature*: _____________________________________________________
+- *Guarantor 2's Signature*: _____________________________________________________
+
+By submitting this loan application form, you acknowledge that you have read and understood the terms and conditions of the loan.
+
+*Loan Application Form Terms and Conditions*
+
+- The lender reserves the right to verify the information provided in this form.
+- The lender will use the information provided to assess the loan application.
+- The loan application is subject to approval, and the lender will notify the applicant of the decision.
+
+This revised form includes the interest rate terms, which are 2% per week and 8% per month.
